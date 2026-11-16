@@ -159,3 +159,16 @@ for k in list(range(len(gsh) - 12, len(gsh))): ax.text(x[k], gsh.iloc[k] - 0.06,
 ax.set_xticks([]); ax.spines["bottom"].set_visible(False); ax.set_ylabel("HSC vs MPP (log₂ fold change,\nmedian of 7 mice)"); ax.set_ylim(-3.0, 4.2)
 ax.text(len(gsh) * 0.33, 3.3, "higher in HSCs", color=BLUE, fontsize=24, fontweight="bold"); ax.text(len(gsh) * 0.33, -2.6, "lower in HSCs", color=VERM, fontsize=24, fontweight="bold")
 ax.set_xlabel(f"{len(gsh)} ATF4 targets shared by the stress and mTORC1 routes"); fig.tight_layout(); save(fig, "shared_genes")
+
+# ---- per-clone view: each clone vs its same-run control, ordered slowest to fastest
+order = [("M96-M16", "M9.6", 825), ("M61-M14", "M6.1", 147), ("M32-M16", "M3.2", 243), ("M73-M14", "M7.3", 26), ("M51-M14", "M5.1", 25)]
+fig, axs = plt.subplots(1, 3, figsize=(W, H), sharey=True)
+for ax, s, col in zip(axs, ["T21_ATF4_stress_only", "T21_ATF4_shared", "T21_mTORC1_nonATF4"], [VERM, VERM, BLUE]):
+    for i, (pk, nm, n) in enumerate(order):
+        r = p3[(p3.pair == pk) & (p3.set == s)].iloc[0]
+        ax.plot([i, i], [r.ci_lo, r.ci_hi], color=col, lw=4, solid_capstyle="round"); ax.scatter(i, r.d, color=col, s=260, zorder=3, edgecolor=BG, linewidth=2)
+    ax.axhline(0, color=INK, lw=1.4); ax.set_xticks(range(5)); ax.set_xticklabels([f"{nm}\n{n}" for _, nm, n in order], fontsize=19)
+    ax.set_title({"T21_ATF4_stress_only": "ATF4: stress route only", "T21_ATF4_shared": "ATF4: shared with mTORC1", "T21_mTORC1_nonATF4": "mTORC1, ATF4-independent"}[s], fontsize=21, fontweight="bold", color=col, pad=16); ax.set_xlim(-0.5, 4.5); ax.tick_params(axis="x", length=0)
+axs[0].set_ylabel("HSCs, clone − same-run control (SD)")
+axs[1].set_xlabel("slowest  →  fastest clone   (number of HSCs below name)", labelpad=14)
+fig.tight_layout(w_pad=2.5); save(fig, "milsom_by_clone")
