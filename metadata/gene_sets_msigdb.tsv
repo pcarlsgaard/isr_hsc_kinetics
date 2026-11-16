@@ -1,0 +1,13 @@
+set	tier	collection	msigdb_name	modification
+RiBi_nonRP	primary	m5.go.bp	GOBP_RIBOSOME_BIOGENESIS	minus RP_cytoplasmic genes
+mTORC1_hallmark	primary	mh.all	HALLMARK_MTORC1_SIGNALING	
+UPR_hallmark_nonISR	secondary	mh.all	HALLMARK_UNFOLDED_PROTEIN_RESPONSE	minus ISR_adaptive and ISR_terminal genes
+MYC_targets_V1	secondary	mh.all	HALLMARK_MYC_TARGETS_V1	
+MYC_targets_V2	secondary	mh.all	HALLMARK_MYC_TARGETS_V2	
+rRNA_processing	secondary	m5.go.bp	GOBP_RRNA_PROCESSING	minus RP_cytoplasmic genes
+Translation_initiation	secondary	m5.go.bp	GOBP_TRANSLATIONAL_INITIATION	
+Translation_elongation	secondary	m5.go.bp	GOBP_TRANSLATIONAL_ELONGATION	minus RP_cytoplasmic genes
+Reactome_UPR	secondary	m2.cp.reactome	REACTOME_UNFOLDED_PROTEIN_RESPONSE_UPR	minus ISR_adaptive and ISR_terminal genes
+ISR_signaling_GO	secondary	m5.go.bp	GOBP_INTEGRATED_STRESS_RESPONSE_SIGNALING	pathway components, not targets; descriptive only
+E2F_targets	control	mh.all	HALLMARK_E2F_TARGETS	proliferation
+G2M_checkpoint	control	mh.all	HALLMARK_G2M_CHECKPOINT	proliferation
