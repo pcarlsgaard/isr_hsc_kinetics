@@ -99,3 +99,52 @@ Rscript scripts/milsom_score_hspc.R
 ```
 
 MSigDB, the LARRY repository and the LARRY matrices were fetched by hand from the URLs in `metadata/datasets.tsv`; no download script exists for them yet.
+
+## Round 2 (exploratory, HSC-only; Amendment 2 of the prespecification)
+
+Run after the results above had been seen, so nothing here is confirmatory. Headline values are unadjusted for stemness, because stemness and growth state may be consequences of ISR-regulated translation and not confounders. All scores are transcript proxies. Tables are in `results/round2/`; scripts are `scripts/build_gene_sets_round2.py`, `scripts/milsom_round2_score.R`, `scripts/milsom_round2_stats.py`, `scripts/larry_round2.py`.
+
+Three read-outs replace the single adaptive ISR score: `ISR_stress_specific` (11 genes tied to the eIF2α-P route; membership from memory, unverified), `ATF4_biosynth` (route-ambiguous ATF4 biosynthetic targets) and `Growth_noATF4` (hallmark mTORC1 without any ISR gene).
+
+### Milsom: HSCs compared between clones (cell-level SD units, slower minus faster; intervals are over cells, each clone is one unit)
+
+| Read-out | M9.6 − M3.2 (run 2) | M6.1 − M7.3 (run 1) | M6.1 − M5.1 (run 1) | M9.6 − control | M3.2 − control |
+|---|---|---|---|---|---|
+| ISR_stress_specific | +0.84 [+0.70, +0.98] | −0.10 [−0.49, +0.26] | +0.02 [−0.41, +0.43] | −0.10 | −0.91 |
+| ATF4_biosynth | −0.31 [−0.46, −0.16] | −0.17 [−0.64, +0.28] | −0.48 [−1.08, +0.05] | −0.02 | +0.28 |
+| Growth_noATF4 | −0.17 [−0.30, −0.04] | +0.25 [−0.16, +0.68] | −0.55 [−0.95, −0.19] | +0.17 | +0.37 |
+| RiBi_nonRP | −0.31 [−0.44, −0.17] | +0.41 [+0.03, +0.79] | −0.19 [−0.63, +0.22] | +0.31 | +0.68 |
+| Stem_MolO | +1.21 [+1.10, +1.35] | +0.59 [+0.19, +1.03] | −0.25 [−0.74, +0.19] | +0.40 | −0.85 |
+| log10 UMIs per cell | +1.29 [+1.12, +1.45] | +0.09 [−0.26, +0.54] | −1.10 [−1.43, −0.82] | +0.89 | −0.49 |
+
+- The slowest clone against the mid-kinetics clone sequenced with it shows the pattern the restraint reading predicts (stress-specific genes higher, growth read-outs lower). The stress difference arises because M3.2 sits far below the shared control while M9.6 equals it; M9.6 is above the control on both growth read-outs.
+- The run-1 pairs do not reproduce it. The two fastest clones have 26 and 25 HSCs.
+- Genome-wide, the two independent slower-versus-faster contrasts (M9.6 vs M3.2; M6.1 vs M7.3+M5.1; 6,581 genes) do not agree: Spearman −0.03. A small group of known stem-cell genes is higher in the slower clone in both (Tcf15, Mecom, Mpl, Ly6a, Hoxa10, Nupr1) and proliferation or priming genes are lower (Mki67, Flt3, Cd48, Sell).
+- Slow-clone HSCs do not carry fewer transcripts; M9.6 has more UMIs per HSC than M3.2 and than the control.
+
+### LARRY: low- versus high-output clones (51 vs 30 clones; within-experiment SD units; permutation p)
+
+| Read-out | Low − high output | p | ρ with output per HSC | ρ after stemness adjustment |
+|---|---|---|---|---|
+| ISR_stress_specific | +0.19 | 0.42 | −0.11 | +0.02 |
+| ISR_terminal (round 1 set) | +0.53 | 0.019 | −0.20 | +0.20 |
+| ATF4_biosynth | −0.72 | 0.001 | +0.27 | +0.04 |
+| Growth_noATF4 | −0.95 | <0.001 | +0.31 | +0.11 |
+| RiBi_nonRP | −0.74 | 0.001 | +0.30 | +0.11 |
+| RP_cytoplasmic | −0.30 | 0.18 | −0.03 | −0.13 |
+
+- Unadjusted, HSCs of low-output clones express less of the growth and ribosome-biogenesis programmes. ATF4 biosynthetic targets fall with them (clone-level correlation with growth read-outs 0.59 to 0.64), which is the growth-route pattern. The stress-specific set is flat and uncorrelated with growth (−0.04).
+- HSC-rich, low-output clones (21 of 84): no read-out differs from the other clones (stress-specific +0.20, p = 0.43).
+- Genome-wide ranking of 14,253 genes: stemness genes lead the low-output side (Ifitm1, Nupr1, Mllt3, Procr, Ly6a, Mecom) and cell-cycle and MYC-target genes lead the high-output side (mean percentile rank 0.23 to 0.25). Translation, ribosome-biogenesis and mTORC1 sets sit modestly below the middle (0.34 to 0.44). The `Stem_LowOutput` set was derived from this dataset, so its top rank is circular.
+- Nupr1, a stress-inducible ATF4-target gene, is the second-ranked gene in low-output clones and is higher in the slower clone in both Milsom contrasts. This is one gene and a lead only.
+
+### Across datasets
+
+Spearman correlation of the LARRY low-minus-high-output gene differences with Milsom HSC contrasts (6,246 genes): M9.6 vs M3.2 +0.30; M9.6 vs control +0.12; M3.2 vs control −0.27; M6.1 vs M7.3+M5.1 −0.03; M6.1 vs control −0.03. M9.6 HSCs resemble low-output HSCs and M3.2 HSCs resemble high-output HSCs; the run-1 clones show no relation.
+
+### Reading
+
+- Supported as association: HSCs of low-output clones, and of the slowest clone relative to its run-mate, sit lower on growth and ribosome-biogenesis transcripts. This is the same axis as the stemness scores, so it does not distinguish the hypothesis from the known low-biosynthesis state of dormant HSCs.
+- Not supported: that the ISR is the restraining signal. ISR-route-specific transcripts are not higher in low-output clones, and the ATF4 targets that do change move with growth. The gene set is small and unverified, and eIF2α phosphorylation need not leave a strong transcript trace, so this is absence of evidence at transcript level.
+- H2: no sign that HSC-rich, low-output clones carry a stronger stress signature.
+- Kinetics in general remains unresolved: one within-run clone pair shows the pattern, the others do not.
