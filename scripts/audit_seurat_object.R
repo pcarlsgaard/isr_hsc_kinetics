@@ -9,16 +9,16 @@ sink(args[2], split = TRUE)
 cat("file:", args[1], "\nsize_bytes:", file.size(args[1]), "\n")
 obj <- readRDS(args[1])
 cat("class:", paste(class(obj), collapse = ", "), "\n")
-if (inherits(obj, "Seurat")) {
+if (identical(class(obj)[1], "Seurat")) {
   cat("object version:", as.character(obj@version), "\n")
-  cat("dims (features x cells):", dim(obj), "\n")
-  cat("default assay:", DefaultAssay(obj), "\n")
+  # slot access only: objects written by Seurat v3 fail S4 dispatch without the Seurat package
+  cat("active assay:", obj@active.assay, " n cells (meta.data):", nrow(obj@meta.data), "\n")
   for (a in names(obj@assays)) {
     A <- obj@assays[[a]]
     cat("\n## assay", a, "class", class(A)[1], "\n")
-    slots <- if (inherits(A, "Assay5")) names(A@layers) else c("counts", "data", "scale.data")
+    slots <- if (identical(class(A)[1], "Assay5")) names(A@layers) else c("counts", "data", "scale.data")
     for (s in slots) {
-      m <- if (inherits(A, "Assay5")) A@layers[[s]] else methods::slot(A, s)
+      m <- if (identical(class(A)[1], "Assay5")) A@layers[[s]] else methods::slot(A, s)
       cat(sprintf("  %-12s class=%s dim=%s", s, class(m)[1], paste(dim(m), collapse = "x")))
       if (length(m) > 0 && inherits(m, "sparseMatrix")) {
         x <- m@x
@@ -27,10 +27,11 @@ if (inherits(obj, "Seurat")) {
       }
       cat("\n")
     }
-    cat("  features (first 15):", head(rownames(A), 15), "\n")
-    cat("  n ENSMUSG-like:", sum(grepl("^ENSMUSG", rownames(A))),
-        " n mt-:", sum(grepl("^mt-", rownames(A))),
-        " n Rps/Rpl:", sum(grepl("^Rp[sl][0-9]", rownames(A))), "\n")
+    rn <- if (identical(class(A)[1], "Assay5")) rownames(A@features) else rownames(A@counts)
+    cat("  features (first 15):", head(rn, 15), "\n")
+    cat("  n ENSMUSG-like:", sum(grepl("^ENSMUSG", rn)),
+        " n mt-:", sum(grepl("^mt-", rn)),
+        " n Rps/Rpl:", sum(grepl("^Rp[sl][0-9]", rn)), "\n")
   }
   cat("\nreductions:", names(obj@reductions), "\n")
   md <- obj@meta.data

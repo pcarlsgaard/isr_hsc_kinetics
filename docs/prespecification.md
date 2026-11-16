@@ -41,3 +41,14 @@ Controls: authors' stemness/quiescence sets shipped in the bundle (MolO, dormant
 - Can: whether translation-related transcriptional programs differ between systems in the predicted direction, their size relative to within-system variation, and whether differences survive stratification by stemness state.
 - Cannot: separate kinetics from HSC share or lineage restriction (confounded by design at n = 5); establish curve shape (H2) beyond a single extreme clone; measure protein synthesis or eIF2α phosphorylation; establish causality or direction. A perfect monotone trend across five systems is the strongest possible result and still corresponds to p ≈ 0.017 for one signature before multiplicity.
 - LARRY (GSE134242) is used only as a between-clone consistency check on output and persistence, with its own pre-specified contrast (low-output vs high-output HSC clones as annotated by the original authors; tertile test of shape), and cannot test kinetics.
+
+## Amendment 1 (2026-11-16, after the object metadata audit, before any expression score was computed)
+
+The HSPC object shows a run structure not known when the plan was written: Run 1 holds M6.1, M7.3, M5.1 and control M14; Run 2 holds M9.6, M3.2 and control M16. Kinetic rank is therefore partly confounded with sequencing run. Added, without changing the primary analysis:
+
+- Every between-system summary is also reported as a difference from the same-run polyclonal control (control-referenced score).
+- Within-run ordering is reported separately: Run 1 gives three ordered pairs (M6.1 slower than M7.3 slower than M5.1), Run 2 gives one (M9.6 slower than M3.2). Concordance over these four within-run pairs is the batch-robust read-out; it has no usable p-value.
+- HSC counts are 825, 147, 243, 26 and 25 for M9.6, M6.1, M3.2, M7.3 and M5.1; the two fastest systems are just above the inclusion threshold and their means are reported with bootstrap intervals over cells.
+- The deposited object carries no donor-reporter flag, so whether each annotated HSC is clone-derived cannot be checked from the data. The paper describes the sequenced cells as clonally derived bone-marrow progeny.
+
+LARRY convention fixed at the same time, before LARRY scores were inspected: a cell is assigned to a clone only when its barcode string exactly equals the clone key, as in the original notebook (cells carrying several barcodes are excluded because the published clone tables cannot be reproduced from the deposited barcode lists). Clones need at least 5 scored sorted-HSC cells (sensitivity: 3 and 10). Analyses are stratified by experiment.
