@@ -110,3 +110,11 @@ Same contrasts, statistics, seed and thresholds as Amendment 2: Milsom within-ru
 - ISR restraint predicts `T21_ATF4_stress_only` higher in slower or lower-output HSCs while `T21_mTORC1_nonATF4` is lower.
 - Growth-route ATF4 predicts `T21_ATF4_shared` moving with `T21_mTORC1_nonATF4` and `T21_ATF4_stress_only` flat.
 - For biosynthesis: a difference confined to ribosome and translation sets points to protein synthesis specifically; a similar difference across nucleotide, lipid and energy sets points to general biosynthetic quiet.
+
+## Amendment 4 (2026-11-16, exploratory, written before running)
+
+Question added: is ISR-route transcript activity a property of the HSC cell type, as opposed to a difference between HSC clones? This is the brief's "HSC-to-MPP" comparison (section 2) applied to the round-3 sets.
+
+- Data: Milsom HSPC object, all seven mice (five clonal, two polyclonal controls). Round-3 sets and the round-1 `ISR_adaptive`, `ISR_terminal`, `Stem_MolO`, `IEG_dissociation` scored per cell (UCell on raw counts).
+- Read-out: per mouse, mean score in annotated HSCs minus mean in annotated MPPs, divided by the pooled within-mouse cell SD. Mice are the units (n = 7, paired by design, so run and animal cancel). Reported: per-mouse values, median, number of mice with a positive sign, Wilcoxon signed-rank p (minimum attainable two-sided p = 0.016). Repeated for HSCs versus all non-HSC progenitors pooled.
+- Reading: cell-type ISR activity predicts `T21_ATF4_stress_only` higher in HSCs than MPPs in most mice while `T21_mTORC1_nonATF4` is lower. Clonal systems are not normal haematopoiesis; the two controls are shown separately.
