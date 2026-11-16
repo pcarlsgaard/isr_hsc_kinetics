@@ -192,3 +192,25 @@ Same contrasts and statistics as round 2, unadjusted for stemness, transcript pr
 ### Reading
 
 Using published sets strengthens the round-2 reading. Low-output and slow-clone HSCs show a broadly quieter growth and metabolic transcript state, of which translation machinery is one part; there is no transcript-level sign that the stress route to ATF4 is more active in them. Limits specific to this round: the route split comes from fibroblasts under one stressor, many stress-only genes are not expressed in HSCs, and eIF2α phosphorylation itself is not measured.
+
+## Round 4 (exploratory; Amendment 4): is ISR-route transcript activity a property of the HSC cell type?
+
+Within each of the seven Milsom mice (five clonal, two polyclonal controls), annotated HSCs were compared with annotated MPPs from the same animal; mice are the units, and animal and run cancel in the pairing. Values are cell-level SD units, median over mice. Tables in `results/round4/`; scripts `scripts/milsom_round4_score.R`, `scripts/milsom_round4_stats.py`, `scripts/milsom_round4_genes.py`.
+
+| Set | HSC − MPP (median, range) | Mice with same sign | Wilcoxon p (floor 0.016) |
+|---|---|---|---|
+| ATF4 targets, stress route only | +1.05 (+0.67 to +1.49) | 7 of 7 higher | 0.016 |
+| ATF4 targets, shared with mTORC1 | +0.06 (−0.40 to +0.24) | 4 of 7 higher | 0.69 |
+| mTORC1 targets not needing ATF4 | −1.55 (−1.99 to −1.21) | 7 of 7 lower | 0.016 |
+| ISR_terminal (round-1 set) | +1.58 | 7 of 7 higher | 0.016 |
+| ISR_adaptive (round-1 set) | −0.29 | 6 of 7 lower | 0.03 |
+| Reactome PERK / ATF4-ER-stress | −0.70 / −0.52 | 7 / 6 of 7 lower | 0.016 / 0.03 |
+| Ribosome biogenesis (non-RP) | −0.98 | 7 of 7 lower | 0.016 |
+| Purine / pyrimidine synthesis, OXPHOS, mitochondrial translation | −1.24 / −1.11 / −1.22 / −1.17 | 7 of 7 lower | 0.016 |
+| Immediate-early (dissociation) genes | +0.99 | 7 of 7 higher | 0.016 |
+
+- The pattern fixed in advance for a cell-type ISR is met in every mouse, controls included: stress-route-only ATF4 targets are higher in HSCs than in MPPs while ATF4-independent mTORC1 targets and all biosynthesis sets are lower. HSCs versus all other progenitors gives the same result (+1.16 and −1.54).
+- The shared ATF4 targets do not fall with growth in HSCs. Within that list the stress and feedback members are higher in HSCs (Ddit4, Slc7a11, Ddit3, Sesn2, Atf5) and the amino-acid and one-carbon enzymes are lower (Mthfd2, Psat1, Shmt2, Slc7a5, tRNA synthetases).
+- Specificity is limited. At gene level 68% of expressed stress-only genes are higher in HSCs against a background of 58% (65% after removing immediate-early and stemness-signature genes). The leading genes (Gata3, Txnip, Ppp1r15a, Klf4, Gdf15, Hmox1) include HSC identity, quiescence and immediate-early genes, and the immediate-early set is raised to the same degree, so handling stress and FOXO/p53-type quiescence programmes are not excluded. The Reactome PERK and ATF4 sets, which contain biosynthetic targets, point the other way.
+
+Taken with rounds 2 and 3: an ISR-like transcript pattern distinguishes HSCs from their immediate progeny in every animal, but does not distinguish slow from fast or low-output from high-output HSC clones. In these data it behaves as a cell-type feature, not as the variable that sets clonal kinetics or output. Whether it reflects eIF2α phosphorylation is not measurable here.
