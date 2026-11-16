@@ -1,0 +1,20 @@
+name: Build development container
+on:
+  push:
+    paths: ['.devcontainer/**', 'requirements.txt', 'scripts/check-environment.sh', '.github/workflows/container.yml']
+  pull_request:
+    paths: ['.devcontainer/**', 'requirements.txt', 'scripts/check-environment.sh', '.github/workflows/container.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --global @devcontainers/cli
+      - run: devcontainer up --workspace-folder .
+      - run: devcontainer exec --workspace-folder . bash scripts/check-environment.sh

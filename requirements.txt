@@ -1,0 +1,10 @@
+# Starting ranges; resolve and commit a lock file before scientific analyses.
+numpy>=2.0,<3
+pandas>=2.2,<3
+scipy>=1.14,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+biopython>=1.84,<2
+requests>=2.32,<3
+jupyterlab>=4.3,<5
+ipykernel>=6.29,<7
