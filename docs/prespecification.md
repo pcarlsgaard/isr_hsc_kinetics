@@ -85,3 +85,28 @@ Readings fixed in advance: restraint by ISR predicts `ISR_stress_specific` highe
 - Cross-dataset: Spearman correlation of that per-gene difference with Milsom contrasts A, B and M9.6 versus its control.
 
 Dropped from the earlier proposal: stemness-matched cell pairing (superseded by the change of stance; the clone-level adjusted value is retained for reference) and trajectory analysis.
+
+## Amendment 3 (2026-11-16, exploratory third round, written before any of these sets was scored in HSCs)
+
+Status: exploratory, as for Amendment 2. Purpose: replace the hand-picked round-2 ISR lists with sets taken from published data, and widen the biosynthesis read-outs. Gene lists were inspected (membership only) before this was written; no HSC score had been computed for them.
+
+Correction to Amendment 2: the source data of Torrence et al. 2021 (eLife 10:e63326, Figure 1-source data 1) list Ddit3, Chac1, Ddit4, Sesn2 and Atf5 among the 61 ATF4 targets induced by **both** the stress route and mTORC1. Five of the eleven `ISR_stress_specific` genes were therefore not route-specific, and the round-2 result for that set is superseded by the sets below.
+
+### Sets (`metadata/gene_sets_round3.tsv`, built by `scripts/build_gene_sets_round3.py`)
+
+From Torrence 2021 (mouse embryonic fibroblasts; symbols as published, with current aminoacyl-tRNA synthetase and Ero1a aliases added):
+- `T21_ATF4_shared`: the 61 genes flagged "Shared ISR and mTORC1 gene".
+- `T21_ATF4_stress_only`: ATF4-dependent tunicamycin-induced genes, not flagged shared, not in the insulin-sensitive list, tunicamycin log2 fold change at least 1. Tunicamycin acts through PERK, so this is one ISR branch in one cell type; many members are not expressed in HSCs. No expression filter is applied (undetected genes add a constant under the rank statistic).
+- `T21_mTORC1_nonATF4`: insulin-induced, rapamycin-sensitive genes that are not in the ATF4-dependent insulin list.
+
+From human Reactome (MSigDB 2025.1.Hs), mapped through MGI one-to-one homology classes, cytoplasmic ribosomal protein genes removed: `R_ATF4_ER_stress`, `R_PERK_gene_expression`, `R_GCN2_aa_deficiency`, `R_HRI_heme_deficiency`. These mix pathway components with targets.
+
+Biosynthesis sets from mouse MSigDB 2025.1.Mm, unmodified unless stated: amino-acid biosynthesis, serine-family biosynthesis, one-carbon metabolism, purine and pyrimidine nucleotide biosynthesis (GO BP); RNA polymerase I transcription, mitochondrial translation, cholesterol biosynthesis (Reactome); large and small ribosomal subunit biogenesis, fatty-acid biosynthesis, cytoplasmic translation without ribosomal protein genes (GO BP); oxidative phosphorylation and glycolysis (hallmark).
+
+### Analyses and readings
+
+Same contrasts, statistics, seed and thresholds as Amendment 2: Milsom within-run clone pairs and clone-versus-control (cell-level standardised differences); LARRY low- versus high-output clones, rank correlation with output per HSC, and HSC-rich low-output clones. Unadjusted values are the headline.
+
+- ISR restraint predicts `T21_ATF4_stress_only` higher in slower or lower-output HSCs while `T21_mTORC1_nonATF4` is lower.
+- Growth-route ATF4 predicts `T21_ATF4_shared` moving with `T21_mTORC1_nonATF4` and `T21_ATF4_stress_only` flat.
+- For biosynthesis: a difference confined to ribosome and translation sets points to protein synthesis specifically; a similar difference across nucleotide, lipid and energy sets points to general biosynthetic quiet.

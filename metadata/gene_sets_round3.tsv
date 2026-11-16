@@ -1,0 +1,1821 @@
+set	tier	gene	source
+T21_ATF4_shared	round3_exploratory	Gpt2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Cyb5r1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Slc7a1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Aldh18a1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Stbd1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Arhgef2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Pck2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Ddit3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Acot2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Tbpl1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Sesn2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Got1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Slc1a4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Ero1l	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Ero1a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Slc7a5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Herpud1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Mthfd2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Slc3a2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Aars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Aars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Xpot	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Lonp1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Cth	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Jdp2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Zbtb18	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Cars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Cars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Slc38a1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Nars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Nars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Chac1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Ddit4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Tars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Tars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Gars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Gars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Aldh1l2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Asns	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Akna	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Cdsn	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Sars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Sars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Yars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Yars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Shmt2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Psph	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Slc1a5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Vegfa	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Phf10	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Ccnd2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Rps6ka2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Psat1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Bcat1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Eif4ebp1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Rnd1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Lars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Lars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Steap1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Atf5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Slc7a11	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Hax1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Vldlr	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Siah2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Hspa9	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Mthfd1l	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Trub1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Phgdh	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Cd74	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_shared	round3_exploratory	Cdr2l	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Chka	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Cpox	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ppp1r15a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Hmox1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Slc38a7	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gtpbp2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Snai2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Atf3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Stc2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Nfil3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Arid5a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Mthfr	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gadd45a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Stard5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ets2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Sqstm1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Myc	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Mknk1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Mex3b	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Wars	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Wars1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Rab39b	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Dgat2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Stk40	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ciart	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Rin1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Mid1ip1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Paqr3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ndrg1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Dennd4a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Rab11fip1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Fbxo42	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Fibin	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ern1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Syvn1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Usp17la	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Sel1l	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Tnfaip6	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Wfs1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Slc25a33	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Trp53inp1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Usp36	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Sash1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gcc1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Fam129a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ibtk	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Abraxas1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Lck	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Trim66	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Slc7a3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Them4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Cabp1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Cry2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Klf15	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Rspo2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Hyou1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Cxadr	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ubald2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ccl20	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Apobec1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Arhgap33	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Klf4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Adm2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Lins1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Tmem268	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Avil	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Tmem74	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Extl1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	9330179D12Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Slc16a14	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Dusp8	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Fzd4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Cass4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Fgf21	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Mtm1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Chd5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	5430416N02Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Snhg12	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Plcxd2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Irx1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Angptl6	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Xbp1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Dus4l	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Atg13	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gm12258	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	1110038B12Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Txnip	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Dhrs9	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Calcrl	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Zfp420	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Tmem154	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Arrdc4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ccdc24	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gm15417	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Casp4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Trem3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Amz1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Zscan26	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Nfxl1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Tspyl2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	2410006H16Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Mfsd2a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Sspo	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	P2rx3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Dnajb9	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Sybu	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Tha1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	1700006H21Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Kyat1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Npy1r	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Il4i1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Irgm2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Cxxc4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Rnf165	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Piga	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ier2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Mmp23	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Zfp566	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ifi203	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Wdr25	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gpr141	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ttc41	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Chchd10	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Trim69	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gata3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Plcl2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Dthd1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Tfcp2l1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Maats1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gm15413	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gm8623	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Nr2c2ap	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Arhgap20	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Soat2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	4930431P03Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Sh3tc2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	A230050P20Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Car7	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Relb	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Zfp202	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Snhg5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gdf15	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Zfp493	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	D16Ertd472e	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Hist3h2a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Etv5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	1810010H24Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Atp2a3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Mei4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Arap2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Abcb1a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Lncenc1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Creb5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ptpn22	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Zfp623	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gpat3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Manf	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Acox2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Hoxa1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Sh2d6	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gjb2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Slc1a7	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Catsperd	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Nfkbil1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Phyhd1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Snhg15	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Gsta1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Ostn	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Slc30a1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Hsd17b1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_ATF4_stress_only	round3_exploratory	Pex11g	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Igfbp5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Kif21b	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gale	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cdkn1a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Igfbp3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Loxl2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tubb3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mllt11	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Trib3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Rcor2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Rrm2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Hspa5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	6430548M08Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Casp3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tuba4a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pcna	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tspan15	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Bub1b	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Thyn1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cd1d1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Nupr1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Artn	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Igsf9	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Atf4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Vcp	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tk1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Plxdc1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Crabp2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cd200	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Psmd14	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Uhrf1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cdk1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pclaf	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pimreg	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Lmnb2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ifi30	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mlkl	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Fabp5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mif	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Psmd12	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Lpcat4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	H2afz	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mcm6	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	P2rx6	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Slc2a6	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Anp32e	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Plekhh3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ifrd1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Psma5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ss18l2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Srxn1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Dus2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tacc3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	4931428F04Rik	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ak4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Nup107	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mtbp	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Nme1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Melk	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cdca3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Kif22	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pgam1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Chst3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cdc45	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Kif2c	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pdp2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Exosc8	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cspg4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gys1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cenpn	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mcm5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mcm3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Rad51	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Snrpa1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mcm2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tmx2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Crls1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Fam162a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Serpinh1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pbk	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Lig1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Iqgap3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Notch3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Egln3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pycr1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Usp5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Hspb8	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Psma1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Bzw2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gtse1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Aurkb	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Slirp	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cdca8	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cdca5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Erg28	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gramd1b	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Zbtb7c	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ppat	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gclm	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Podn	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ldha	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gpc1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	AI464131	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Reep4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ranbp1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Psmc2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Hmgb2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Trp53inp2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Rad51ap1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Fam136a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Bhlhe41	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Srsf7	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ran	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Otub2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Spc24	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Dnajc9	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Bmp3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cks1b	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cdc20	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gk	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Recql4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Adcy7	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Slc9a9	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tmcc3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Aurka	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pdhb	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tmem45a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Snrpd1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pgk1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tuba1a	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gsr	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pmvk	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cenpw	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ap2m1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Psmc5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Birc5	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gtf3c6	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ddx39	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Rnaseh2b	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cdc25c	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ccnf	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Hat1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Capn10	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Skp2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tmem97	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Nuf2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ccdc58	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pcyox1l	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Eme1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Psma2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Syt13	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ncaph	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Rnf121	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pkmyt1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Bnip3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tubg1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Vdac3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Eda2r	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Nsl1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Mxd3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Ska3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Asf1b	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Fignl1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tbc1d31	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Cenpm	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Hirip3	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Slc19a2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gbe1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tedc1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tspyl4	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Rpf2	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Plk1	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	BC055324	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Tcf19	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Pgp	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+T21_mTORC1_nonATF4	round3_exploratory	Gclc	Torrence 2021 eLife 10:e63326 Fig1-source data 1
+R_ATF4_ER_stress	round3_exploratory	Asns	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Atf3	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Atf4	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Atf6	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Ccl2	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Cebpb	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Cebpg	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Dcp2	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Ddit3	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Dis3	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc1	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc2	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc3	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc4	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc5	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc6	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc7	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc8	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Exosc9	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Herpud1	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Igfbp1	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Khsrp	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Nfya	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Nfyb	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Nfyc	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_ATF4_ER_stress	round3_exploratory	Parn	MSigDB 2025.1.Hs REACTOME_ATF4_ACTIVATES_GENES_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS; MGI homology
+R_PERK_gene_expression	round3_exploratory	Asns	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Atf3	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Atf4	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Atf6	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Ccl2	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Cebpb	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Cebpg	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Dcp2	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Ddit3	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Dis3	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Eif2ak3	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Eif2s1	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Eif2s2	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Eif2s3y	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc1	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc2	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc3	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc4	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc5	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc6	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc7	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc8	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Exosc9	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Herpud1	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Hspa5	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Igfbp1	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Khsrp	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Nfya	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Nfyb	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Nfyc	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_PERK_gene_expression	round3_exploratory	Parn	MSigDB 2025.1.Hs REACTOME_PERK_REGULATES_GENE_EXPRESSION; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Asns	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Atf2	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Atf3	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Atf4	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Cebpb	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Cebpg	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Ddit3	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Eif2ak4	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Eif2s1	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Eif2s2	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Eif2s3y	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Fau	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Gcn1	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Impact	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Rpl27rt	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Rpl34-ps1	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Gm6525	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Trib3	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_GCN2_aa_deficiency	round3_exploratory	Uba52	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Asns	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Atf3	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Atf4	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Atf5	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Cebpb	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Cebpg	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Chac1	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Ddit3	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Eif2ak1	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Eif2s1	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Eif2s2	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Eif2s3y	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Grb10	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Ppp1r15a	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+R_HRI_heme_deficiency	round3_exploratory	Trib3	MSigDB 2025.1.Hs REACTOME_RESPONSE_OF_EIF2AK1_HRI_TO_HEME_DEFICIENCY; MGI homology
+AA_biosynthesis	round3_exploratory	Aasdhppt	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Aass	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Abat	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Adi1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Agxt	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Agxt2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Aldh18a1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Aldh1a1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Apip	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Asl	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Asns	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Asnsd1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Ass1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Atp2b4	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Bcat1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Bcat2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Bhmt	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Bhmt1b	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Bhmt2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Cad	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Carns1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Cbs	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Cln3	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Cth	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Dpyd	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Enoph1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Gad1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Gad2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Ggt1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Gls	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Gls2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Glul	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Got1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Got1l1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Got2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Hao1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Ilvbl	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Lgsn	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Mri1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Mtap	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Mthfd1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Mthfd2l	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Mthfr	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Mtr	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Mtrr	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Nags	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Noxred1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Oat	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Otc	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Pah	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Park7	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Pcbd1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Pcbd2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Phgdh	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Plod2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Plod3	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Psat1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Psph	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Pycr1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Pycr2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Pycr3	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Sephs1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Sephs2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Shmt1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Shmt2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Slc1a3	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Slc25a12	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Slc38a1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Srr	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Tha1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Thnsl2	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+AA_biosynthesis	round3_exploratory	Upb1	MSigDB 2025.1.Mm GOBP_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Agxt	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Agxt2	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Cbs	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Cth	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Ggt1	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Hao1	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Mthfd1	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Phgdh	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Psat1	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Psph	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Sephs1	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Sephs2	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Shmt1	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Shmt2	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+Serine_biosynthesis	round3_exploratory	Tha1	MSigDB 2025.1.Mm GOBP_SERINE_FAMILY_AMINO_ACID_BIOSYNTHETIC_PROCESS
+One_carbon	round3_exploratory	Ahcy	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Ahcyl1	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Ahcyl2	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Aldh1l1	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Aldh1l2	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Dhfr	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Dmgdh	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Fpgs	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Ftcd	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Gnmt	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mat1a	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mat2a	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mat2b	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mthfd1	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mthfd1l	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mthfd2	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mthfd2l	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mthfr	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mthfs	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Mthfsl	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Sardh	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Sfxn1	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Sfxn3	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Shmt1	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Shmt2	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+One_carbon	round3_exploratory	Tyms	MSigDB 2025.1.Mm GOBP_ONE_CARBON_METABOLIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ada	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy10	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy4	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy5	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy6	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy7	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy8	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adcy9	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adk	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adora2b	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adsl	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adss1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Adss2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Afmid	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ak1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ak2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ak3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ak4	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Aldoa	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ampd1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ampd2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ampd3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Antkmt	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Aprt	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Aspdh	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atg5lrt	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atic	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5f1a	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5f1b	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5f1c	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5f1d	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5f1e	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5if1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5mc1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5mc2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5mc3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5me	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5mf	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5mg	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5pb	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5pd	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5pf	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp5po	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp6-ps	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atp6v1a	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Atpsckmt	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Bcl2l1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Cox11	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Dck	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Dguok	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Dmac2l	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Dnajc30	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Eno1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Eno1b	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Entpd1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Fam3a	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	G6pdx	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gart	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gmpr	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gmpr2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gmps	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Guca1a	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Guca1b	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gucy1a1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gucy1b1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gucy2c	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gucy2d	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gucy2e	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gucy2f	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Gucy2g	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Guk1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Haao	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Hnf1a	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Hprt1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Idh2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ido1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ido2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Il4	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Impdh1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Impdh2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Impdh2-ps	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Kmo	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Kynu	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ldhc	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ldhd	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Letmd1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Lipa	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Map2k1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Mthfd1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Mthfd2l	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Myc	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nadk	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nadk2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nadsyn1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nampt	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Naprt	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa10	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa11	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa12	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa13	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa5	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa6	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa7	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa8	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufa9	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufab1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb10	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb11	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb4	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb5	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb6	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb7	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb8	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufb9	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufc1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufc2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufs1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufs2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufs3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufs4	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufs5	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufs6	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufs7	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufs8	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufv1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufv2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ndufv3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nme1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nme2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nme3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nme4	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nme5	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nme6	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nme7	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nmnat1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nmnat2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nmnat3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nmrk1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nmrk2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nos3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nppa	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nppb	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nppc	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Npr1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Npr2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Nudt2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Oas1a	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Oasl2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Paics	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Papss1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Papss2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Parp1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Pfas	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Pid1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Pnp	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ppara	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Ppat	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Prkn	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Prps1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Prps1l1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Prps1l3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Prps2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Prpsap1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Prpsap2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Pth2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Qprt	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Rd3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Sdha	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Sdhb	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Sdhc	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Sdhd	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Slc25a12	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Slc25a13	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Slc25a51	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Slc4a7	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Sphk2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Stat3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Stoml2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Tgfb1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Tmsb4x	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Trem2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Uqcc3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	Vcp	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Atp6	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Atp8	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Nd1	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Nd2	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Nd3	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Nd4	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Nd4l	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Nd5	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Purine_biosynthesis	round3_exploratory	mt-Nd6	MSigDB 2025.1.Mm GOBP_PURINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Ak9	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Cad	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Cda	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Cmpk1	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Cmpk2	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Ctps1	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Ctps2	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Dck	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Dctd	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Dhfr	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Dhodh	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Dtymk	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Dut	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Nme1	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Nme2	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Nme3	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Nme4	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Nme5	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Nme6	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Nme7	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Shmt1	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Shmt2	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Slc4a7	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Tbpl1	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Tyms	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Uck1	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Uck2	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Uckl1	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Umps	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Upp1	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Upp2	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+Pyrimidine_biosynthesis	round3_exploratory	Uprt	MSigDB 2025.1.Mm GOBP_PYRIMIDINE_NUCLEOTIDE_BIOSYNTHETIC_PROCESS
+PolI_transcription	round3_exploratory	Cavin1	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Ccnh	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Cdk7	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Chd3	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Chd4	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Ehmt2	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Ercc2	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Ercc3	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Ercc6	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Gatad2a	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Gatad2b	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Gtf2h1	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Gtf2h2	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Gtf2h3	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Gtf2h4	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Gtf2h5	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Hdac1	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Mapk3	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Mbd3	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Mnat1	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Mta1	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Mta2	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Mta3	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr1a	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr1b	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr1c	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr1e	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr1f	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr1g	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr1h	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr2e	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr2f	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr2h	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr2k	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Polr2l	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Rbbp4	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Rbbp7	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Rrn3	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Taf1a	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Taf1b	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Taf1c	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Taf1d	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Tbp	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Ttf1	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+PolI_transcription	round3_exploratory	Ubtf	MSigDB 2025.1.Mm REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION
+LSU_biogenesis	round3_exploratory	Afg2a	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Afg2b	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Airim	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Bop1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Brix1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Cinp	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Ddx18	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Ddx28	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Dhx30	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Ebna1bp2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Eif6	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Fastkd2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Ftsj3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Gtf3a	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Gtpbp4	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Heatr3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	LTO1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Las1l	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Mak16	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Malsu1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Mdn1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Mrm2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Mrto4	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Nip7	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Nle1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Noc2l	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Nol9	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Nop16	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Nop2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Nop53	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Npm1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Nsa2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Nvl	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Pak1ip1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Pes1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Ppan	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Rbm34	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Rcc1l	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Rpf1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Rpf2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Rrp15	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Rrs1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Rsl24d1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Sdad1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Surf6	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Tma16	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Trmt112	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Urb1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Wdr12	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Wdr74	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Zfp622	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Znhit3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	Znhit6	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+LSU_biogenesis	round3_exploratory	mt-Rnr2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_LARGE_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	2810004N23Rik	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Aatf	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Abt1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Ak6	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Bms1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Bysl	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Dcaf13	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Ddx52	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Dhx37	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Dimt1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Dnttip2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Emg1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Eral1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Ercc2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Exosc10	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Fau	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Fbl	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Fcf1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Gtf2h5	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Heatr1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Imp3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Imp4	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Kri1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Krr1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Lsm6	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Ltv1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Mcat	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Mettl17	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Mphosph10	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Mrps7	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nat10	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Ngdn	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nob1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nol10	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nol11	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nol6	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nol7	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nom1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nop14	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nop56	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nop58	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Nop9	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Npm1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Pno1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Prkdc	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Pwp2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rcl1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Riok1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Riok2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Riok3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rpp40	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rps19bp1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rps27rt	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rps6-ps4	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rrp36	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rrp7a	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rrp9	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Rrs1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Slx9	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Snu13	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Srfbp1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Surf6	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Tbl3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Trmt112	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Tsr1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Tsr2	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Tsr3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp11	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp15	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp18	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp20	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp23	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp25	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp4	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Utp6	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Wdr3	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Wdr36	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Wdr43	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Wdr46	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Wdr75	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	Xrcc5	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+SSU_biogenesis	round3_exploratory	mt-Rnr1	MSigDB 2025.1.Mm GOBP_RIBOSOMAL_SMALL_SUBUNIT_BIOGENESIS minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Aars1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Akt2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Alkbh3	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Ckap5	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Cnbp	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Cpeb1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Cpeb2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Cpeb3	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Cpeb4	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Csde1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Denr	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Dhx29	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Dhx36	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Dhx9	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Drg1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Drg2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eef2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2ak4	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2b1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2b2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2b3	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2b4	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2b5	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2d	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2s2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2s3x	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif2s3y	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3a	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3b	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3c	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3d	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3e	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3f	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3g	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3h	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3i	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3j1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3j2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3k	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3l	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif3m	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif4a1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif4a2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif4b	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif4ebp1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif4h	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Eif5	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Etf1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Fau	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Fmr1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Ftsj1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Gm6133	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Gtpbp1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Hnrnpd	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Hnrnpu	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Igf2bp1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Impact	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Lin28a	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Mcts1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Mcts2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Mettl3	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Mif4gd	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Ncbp1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Ncbp2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Nck1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Nemf	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Nmnat2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Pabpc1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Paip1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Parp16	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Piwil1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Piwil2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Pkm	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Pkp1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Rbm24	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Rbm4	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Rpl27rt	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Rpl36-ps12	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Rpl9-ps6	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Rplp1rt	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Rps6-ps4	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Rwdd1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Sars1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Sh3bgrl	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Slbp	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Smyd5	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Syncrip	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Uba52	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Unk	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Ybx1	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Ythdf2	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Zc3h15	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Zcchc13	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Cyto_translation_nonRP	round3_exploratory	Zfp385a	MSigDB 2025.1.Mm GOBP_CYTOPLASMIC_TRANSLATION minus RP genes
+Mito_translation	round3_exploratory	Aurkaip1	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Chchd1	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Dap3	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Eral1	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Gadd45gip1	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Gfm1	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Gfm2	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl1	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl10	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl11	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl12	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl13	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl14	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl15	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl16	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl17	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl18	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl19	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl2	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl20	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl21	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl22	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl23	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl24	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl27	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl28	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl3	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl30	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl32	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl33	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl34	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl35	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl36	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl37	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl38	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl39	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl4	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl40	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl41	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl42	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl43	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl44	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl45	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl46	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl47	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl48	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl49	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl50	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl51	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl52	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl53	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl54	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl55	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl57	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl58	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrpl9	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps10	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps11	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps12	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps14	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps15	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps16	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps17	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps18a	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps18b	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps18c	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps2	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps21	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps22	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps23	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps24	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps25	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps26	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps27	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps28	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps30	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps31	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps33	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps34	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps35	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps36	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps5	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps6	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps7	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrps9	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mrrf	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Mtrf1l	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Oxa1l	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Mito_translation	round3_exploratory	Ptcd3	MSigDB 2025.1.Mm REACTOME_MITOCHONDRIAL_TRANSLATION
+Cholesterol_biosynthesis	round3_exploratory	Acat2	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Arv1	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Cyp51	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Dhcr24	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Dhcr7	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Ebp	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Fdft1	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Fdps	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Ggps1	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Hmgcr	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Hmgcs1	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Hsd17b7	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Idi1	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Idi2	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Idi2l	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Lbr	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Lss	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Msmo1	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Mvd	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Mvk	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Nsdhl	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Plpp6	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Pmvk	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Sc5d	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Sqle	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Srebf1	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Srebf2	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Cholesterol_biosynthesis	round3_exploratory	Tm7sf2	MSigDB 2025.1.Mm REACTOME_CHOLESTEROL_BIOSYNTHESIS
+Fatty_acid_biosynthesis	round3_exploratory	Abcd1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Abcd2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Abcd3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Abhd1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Abhd2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Abhd3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acaa1a	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acaa1b	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acaca	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acacb	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acadl	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acadvl	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acly	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acot7	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acot8	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acox1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsbg1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsbg2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsbg3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsf3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsl1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsl3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsl4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsm1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsm2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsm3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsm4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acsm5	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acss1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Acss2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Agt	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Alox12	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Alox12b	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Alox15	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Alox5	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Alox8	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Aloxe3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Anxa1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Apoa4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Apoa5	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Apoc1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Apoc2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Apoc2l	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Apoc3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Asah2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Avp	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Avpr1a	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Brca1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Cbr4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Cd74	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ceacam1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ceacam2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Cthrc1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Cyp7a1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Daglb	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Dcaf5	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Decr2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Degs1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Edn1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Edn2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ehhadh	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Eif6	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Elovl1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Elovl2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Elovl3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Elovl4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Elovl5	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Elovl6	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Elovl7	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Erlin1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Erlin2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Fa2h	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Fabp5	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Fads1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Fads2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Fads2b	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Fads3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Fads6	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Fasn	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gip	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstm1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstm2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstm3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstm4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstm6	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstm7	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstp-ps	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstp1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstp2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Gstp3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hacd1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hacd2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hacd3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hacd4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hnf1a	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hnf4a	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hpgds	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hsd17b12	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hsd17b4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Hsd17b8	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Htd2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Il1b	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Insig1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Insig2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Kat2b	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Klhl25	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Lias	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Lipc	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Lipg	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Lpgat1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Lpl	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ltc4s	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Mapk9	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Mcat	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Mecr	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Mgll	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Mid1ip1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Mif	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Mlxipl	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Mlycd	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Myo5a	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ndufab1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Nr1h2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Nr1h3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Olah	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Oxsm	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pdk4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pecr	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pibf1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pla2g10	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pla2g1b	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pla2g2a	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pla2g3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pla2g4a	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pla2g4f	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Plp1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pnlip	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pnliprp1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pnliprp2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Pnpla8	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Prkaa1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Prkaa2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Prkab1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Prkab2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Prkag1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Prkag2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Prkag3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Prxl2b	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ptgds	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ptges	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ptges2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ptges3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ptges3-ps	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ptgis	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ptgs1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ptgs2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Qki	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Rgn	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Scap	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Scd1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Scd2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Scd3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Scd4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Sco1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Scp2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Sirt1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Sirt2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Slc45a3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Sphk1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Srebf1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Tbxas1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Tecr	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Tecrl	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Thnsl2	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Tmem135	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Trib3	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Ubr4	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Fatty_acid_biosynthesis	round3_exploratory	Wdtc1	MSigDB 2025.1.Mm GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+OXPHOS	round3_exploratory	AK157302	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Abcb7	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Acaa1a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Acaa2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Acadm	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Acadsb	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Acadvl	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Acat1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Aco2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Afg3l2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Aifm1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Alas1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Aldh6a1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp1b1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5f1a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5f1b	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5f1c	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5f1d	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5f1e	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5mc1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5mc3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5me	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5mf	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5pb	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5pd	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5pf	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp5po	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6ap1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v0b	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v0c	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v0e	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v1c1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v1d	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v1e1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v1f	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v1g1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Atp6v1h	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Bax	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Bckdha	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Bdh2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Casp7	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox10	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox11	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox15	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox17	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox4i1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox5a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox5b	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox6a1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox6b1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox6c	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox7a2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox7a2l	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox7b	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox7c	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cox8a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cpt1a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cs	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cyb5a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cyb5r3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Cyc1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Decr1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Dlat	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Dld	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Dlst	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ech1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Echs1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Eci1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Etfa	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Etfb	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Etfdh	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Fdx1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Fh1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Fxn	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Glud1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Gm10053	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Got2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Gpi1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Gpx4	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Grpel1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Hadha	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Hadhb	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Hccs	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Hsd17b10	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Hspa9	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Htra2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Idh1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Idh2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Idh3a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Idh3b	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Idh3g	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Immt	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Iscu	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ldha	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ldhb	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Lrpprc	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Maob	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mdh1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mdh2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mfn2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mgst3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mpc1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrpl11	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrpl15	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrpl34	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrpl35	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrps11	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrps12	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrps15	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrps22	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mrps30	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mtrf1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mtrr	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Mtx2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa4	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa5	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa6	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa7	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa8	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufa9	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufab1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufb2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufb3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufb5	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufb6	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufb7	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufb8	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufc1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufc2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufs1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufs2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufs3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufs4	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufs6	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufs7	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufs8	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufv1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ndufv2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Nnt	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Nqo2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Oat	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Ogdh	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Opa1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Oxa1l	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Pdha1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Pdhb	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Pdhx	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Pdk4	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Pdp1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Phb2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Phyh	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Pmpca	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Polr2f	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Por	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Prdx3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Retsat	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Rhot1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Rhot2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Sdha	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Sdhb	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Sdhc	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Sdhd	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Slc25a11	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Slc25a12	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Slc25a20	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Slc25a3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Slc25a4	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Slc25a5	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Sucla2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Suclg1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Supv3l1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Surf1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Tcirg1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Timm10	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Timm13	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Timm17a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Timm50	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Timm8b	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Timm9	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Tomm22	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Tomm70a	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Uqcr10	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Uqcr11	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Uqcrb	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Uqcrc1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Uqcrc2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Uqcrfs1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Uqcrh	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Uqcrq	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Vdac1	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Vdac2	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+OXPHOS	round3_exploratory	Vdac3	MSigDB 2025.1.Mm HALLMARK_OXIDATIVE_PHOSPHORYLATION
+Glycolysis	round3_exploratory	Abcb6	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Adora2b	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Agl	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Agrn	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ak3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ak4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Akr1a1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Aldh7a1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Aldh9a1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Aldoa	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Aldob	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Alg1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ang	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Angptl4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ankzf1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Arpp19	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Artn	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Aurka	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	B3galt6	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	B3gat1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	B3gat3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	B3gnt3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	B4galt1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	B4galt2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	B4galt4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	B4galt7	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Bik	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Bpnt1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cacna1h	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Capn5	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Casp6	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cd44	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cdk1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cenpa	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Chpf	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Chpf2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Chst1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Chst12	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Chst2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Chst4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Chst5	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cited2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cldn3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cldn9	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cln6	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cog2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Col5a1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Copb2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cth	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cxcr4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Cyb5a	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Dcn	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ddit4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Depdc1a	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Dld	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Dpysl4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Dsc2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ecd	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Efna3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Egfr	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Egln3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Elf3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Eno1b	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Eno2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ero1a	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ext1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ext2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Fam162a	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Fbp2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Fkbp4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Fut8	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	G6pdx	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gal3st1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gale	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Galk1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Galk2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gapdhs	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gclc	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gfpt1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gfus	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Glce	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Glrx	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gmppa	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gmppb	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gne	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gnpda1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Got1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Got2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gpc1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gpc3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gpc4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gpr87	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gusb	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gys1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Gys2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Hax1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Hdlbp	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Hk2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Hmmr	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Homer1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Hs2st1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Hs6st2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Hspa5	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Idh1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Idua	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ier3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Igfbp3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Il13ra1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Irs2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Isg20	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Kdelr3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Kif20a	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Kif2a	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Lct	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ldha	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ldhc	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Lhpp	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Lhx9	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Mdh1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Mdh2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Me1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Me2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Med24	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Mertk	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Met	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Mif	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Miox	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Mpi	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Mxi1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Nanp	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Nasp	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ndst3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ndufv3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Nol3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Nsdhl	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Nt5e	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	P4ha1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	P4ha2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pam	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Paxip1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pcx	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pdk3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pfkfb1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pfkp	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pgam1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pgam2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pgk1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pgls	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pgm2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Phka2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pkm	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pkp2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Plod1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Plod2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pmm2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Polr3k	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ppfia4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ppia	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ppp2cb	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Prps1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Psmc4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pygb	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Pygl	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Qsox1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Rars1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Rbck1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Rpe	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Rragd	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Sap30	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Sdc1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Sdc2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Sdc3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Sdhc	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Slc16a3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Slc25a10	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Slc25a13	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Slc35a3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Slc37a4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Sod1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Sox9	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Spag4	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Srd5a3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Stc1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Stc2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Stmn1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Taldo1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Tff3	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Tgfa	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Tgfbi	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Tktl1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Tpbg	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Tpi1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Tpst1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Txn1	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Ugp2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Vcan	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Vegfa	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Vldlr	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Xylt2	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
+Glycolysis	round3_exploratory	Zfp292	MSigDB 2025.1.Mm HALLMARK_GLYCOLYSIS
