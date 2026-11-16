@@ -1,6 +1,6 @@
 # isr_hsc_kinetics
 
-Starter repository for a bioinformatics project with Claude Code running in a devcontainer. The biological question, datasets, and software license are pending.
+Starter repository for a bioinformatics project with Claude Code running in a devcontainer. The proposed scientific question and datasets are defined in [the analysis brief](docs/analysis-brief.md). R/Seurat is the preferred analysis stack; the current container has base R but does not yet install Seurat or Bioconductor packages. The software license is pending.
 
 ## Start
 
