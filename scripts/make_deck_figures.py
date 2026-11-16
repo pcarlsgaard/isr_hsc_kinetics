@@ -172,3 +172,40 @@ for ax, s, col in zip(axs, ["T21_ATF4_stress_only", "T21_ATF4_shared", "T21_mTOR
 axs[0].set_ylabel("HSCs, clone − same-run control (SD)")
 axs[1].set_xlabel("slowest  →  fastest clone   (number of HSCs below name)", labelpad=14)
 fig.tight_layout(w_pad=2.5); save(fig, "milsom_by_clone")
+
+# ---- Amendment 5: volcano plots and gene-set landscapes
+T21 = [("T21_mTORC1_nonATF4", "mTORC1 targets, ATF4-independent", BLUE), ("T21_ATF4_shared", "ATF4: shared with mTORC1", "#8A6FB0"), ("T21_ATF4_stress_only", "ATF4: stress route only", VERM)]
+def volcano(tab, xcol, xl, name):
+    d = pd.read_csv(root / f"results/round5/{tab}", sep="\t", index_col=0); d["y"] = -np.log10(d.p)
+    fig, ax = plt.subplots(figsize=(W, H))
+    ax.scatter(d[xcol], d.y, s=9, color=GREY, alpha=0.45, linewidth=0, rasterized=True, label=f"all {len(d):,} genes")
+    for k, lbl, col in [T21[0], T21[2]]:
+        m = d.index.intersection(g3[g3.set == k].gene); ax.scatter(d.loc[m, xcol], d.loc[m, "y"], s=75, color=col, edgecolor=BG, linewidth=0.8, zorder=3, label=f"{lbl} ({len(m)})")
+    thr = d[xcol].abs().quantile(0.98); c = d[d[xcol].abs() >= thr]
+    for side, xa, ha, head in ((1, 0.99, "right", "top up"), (-1, 0.01, "left", "top down")):
+        gl = list(c[np.sign(c[xcol]) == side].sort_values("t", key=abs, ascending=False).head(5).index)
+        ax.text(xa, 0.98, head + "\n" + "\n".join(gl), transform=ax.transAxes, ha=ha, va="top", fontsize=19, style="italic", color=INK, linespacing=1.25, zorder=6, bbox=dict(facecolor=BG, edgecolor="none", alpha=0.8, pad=3))
+    ax.axvline(0, color=MUTE, lw=1); ax.set_xlabel(xl); ax.set_ylabel("−log₁₀ p"); lim = d[xcol].abs().quantile(0.9995) * 1.1; ax.set_xlim(-lim, lim)
+    h, l = ax.get_legend_handles_labels(); lg = fig.legend(h, l, loc="upper center", ncol=3, handletextpad=0.2, markerscale=1.6)
+    lg.legend_handles[0].set_sizes([90]); lg.legend_handles[0].set_alpha(1)
+    fig.tight_layout(rect=(0, 0, 1, 0.92)); save(fig, name)
+volcano("hsc_vs_mpp_genes.tsv.gz", "log2fc", "HSC vs MPP (log₂ fold change, mean of 7 mice)", "volcano_hsc_mpp")
+volcano("larry_low_vs_high_genes.tsv.gz", "diff", "Low-output − high-output clones (SD)", "volcano_larry")
+def pretty(s): return s.replace("HALLMARK_", "").replace("_", " ").capitalize().replace("Myc", "MYC").replace("E2f", "E2F").replace("G2m", "G2M").replace("Tnfa", "TNFα").replace("nfkb", "NF-κB").replace("Il2 stat5", "IL2–STAT5").replace("Il6 jak stat3", "IL6–JAK–STAT3").replace("Kras", "KRAS").replace("Mtorc1", "mTORC1").replace("Dna", "DNA")
+def landscape_fig(tab, name):
+    r = pd.read_csv(root / f"results/round5/{tab}", sep="\t"); n = len(r)
+    fig, ax = plt.subplots(figsize=(W, H)); cnt, edges, _ = ax.hist(r.score, bins=70, color=GREY, edgecolor=BG, linewidth=0.6); top = cnt.max()
+    hall = r[r.set.str.startswith("HALLMARK")]
+    refs = [(x.set, pretty(x.set), INK, x.score, x.rank_from_top) for x in list(hall.head(2).itertuples()) + list(hall.tail(2).itertuples())]
+    mine = [(k, lbl, col, r.loc[r.set == k, "score"].iloc[0], int(r.loc[r.set == k, "rank_from_top"].iloc[0])) for k, lbl, col in T21]
+    items = sorted(refs + mine, key=lambda v: v[3]); med = np.median([v[3] for v in items])
+    left = [v for v in items if v[3] < med]; right = [v for v in items if v[3] >= med]
+    plan = list(zip(left, [1.72, 1.52, 1.32, 1.12], ["left"] * 4)) + list(zip(right, [1.62, 1.42, 1.22, 1.02], ["right"] * 4))
+    for (k, lbl, col, sc, rk), lv, ha in plan:
+        yl = top * lv; strong = k.startswith("T21")
+        ax.plot([sc, sc], [0, yl], color=col, lw=3.2 if strong else 1.6, ls="-" if strong else (0, (4, 3)))
+        ax.text(sc + (0.012 if ha == "left" else -0.012), yl, f"{lbl} · rank {rk:,}", color=col, fontsize=19 if strong else 18, fontweight="bold" if strong else "normal", ha=ha, va="top", zorder=6, bbox=dict(facecolor=BG, edgecolor="none", pad=1.5))
+    ax.set_yticks([t for t in ax.get_yticks() if t <= top])
+    ax.set_ylim(0, top * 1.8); ax.set_xlabel(f"Gene-set score: mean shift of member genes (SD) · {n:,} gene sets ranked"); ax.set_ylabel("Number of gene sets", y=0.3)
+    fig.tight_layout(); save(fig, name)
+landscape_fig("hsc_vs_mpp_set_landscape.tsv", "landscape_hsc_mpp"); landscape_fig("larry_low_vs_high_set_landscape.tsv", "landscape_larry")

@@ -214,3 +214,17 @@ Within each of the seven Milsom mice (five clonal, two polyclonal controls), ann
 - Specificity is limited. At gene level 68% of expressed stress-only genes are higher in HSCs against a background of 58% (65% after removing immediate-early and stemness-signature genes). The leading genes (Gata3, Txnip, Ppp1r15a, Klf4, Gdf15, Hmox1) include HSC identity, quiescence and immediate-early genes, and the immediate-early set is raised to the same degree, so handling stress and FOXO/p53-type quiescence programmes are not excluded. The Reactome PERK and ATF4 sets, which contain biosynthetic targets, point the other way.
 
 Taken with rounds 2 and 3: an ISR-like transcript pattern distinguishes HSCs from their immediate progeny in every animal, but does not distinguish slow from fast or low-output from high-output HSC clones. In these data it behaves as a cell-type feature, not as the variable that sets clonal kinetics or output. Whether it reflects eIF2α phosphorylation is not measurable here.
+
+## Round 5 (exploratory; Amendment 5): the ATF4 route sets ranked against every gene set
+
+Every MSigDB mouse hallmark, Reactome and GO biological-process set of 15 to 300 tested genes was scored the same way (mean gene-level t of members, in SD of all genes' t) for two contrasts. Tables in `results/round5/`; script `scripts/unbiased_landscape.py`.
+
+| Contrast | Sets ranked | ATF4 stress route only | ATF4 shared with mTORC1 | mTORC1, ATF4-independent |
+|---|---|---|---|---|
+| HSC vs MPP (7 mice, paired) | 3,731 | +0.38; rank 375; 25% of sets more extreme | −0.33; rank 3,097; 31% more extreme | −1.30; rank 3,707; 0.7% more extreme |
+| LARRY low vs high output (51 vs 30 clones) | 4,235 | +0.09; rank 1,681; 72% more extreme | −0.29; rank 3,617; 26% more extreme | −0.69; rank 4,140; 2.4% more extreme |
+
+- HSC vs MPP is dominated by loss of DNA-replication, E2F and MYC programmes (scores −1.4 to −1.7) and gain of interferon and antigen-presentation programmes (+0.9 to +1.3). The stress-route ATF4 set is in the upper tenth of sets but a quarter of all sets are more extreme; it is 8th of 52 in the hallmark panel.
+- Between low- and high-output clones the stress-route set is in the middle of the distribution.
+- The ATF4-independent mTORC1 targets are among the most strongly reduced sets in both contrasts.
+- Deviation from Amendment 5: figures name the two highest and two lowest hallmark sets for legibility instead of the five highest and lowest sets overall; the full ranking is in the tables.
