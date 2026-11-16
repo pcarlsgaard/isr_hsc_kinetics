@@ -148,3 +148,47 @@ Spearman correlation of the LARRY low-minus-high-output gene differences with Mi
 - Not supported: that the ISR is the restraining signal. ISR-route-specific transcripts are not higher in low-output clones, and the ATF4 targets that do change move with growth. The gene set is small and unverified, and eIF2α phosphorylation need not leave a strong transcript trace, so this is absence of evidence at transcript level.
 - H2: no sign that HSC-rich, low-output clones carry a stronger stress signature.
 - Kinetics in general remains unresolved: one within-run clone pair shows the pattern, the others do not.
+
+## Round 3 (exploratory, HSC-only; Amendment 3): published ISR-route and biosynthesis sets
+
+Same contrasts and statistics as round 2, unadjusted for stemness, transcript proxies throughout. Tables in `results/round3/`; scripts `scripts/build_gene_sets_round3.py`, `scripts/milsom_round3_score.R`, `scripts/round3_stats.py`.
+
+**Correction to round 2.** The source data of Torrence et al. 2021 (eLife 10:e63326; mouse embryonic fibroblasts) list Ddit3, Chac1, Ddit4, Sesn2 and Atf5 among 61 ATF4 targets induced by both the stress route and mTORC1. Five of the eleven genes in the hand-picked round-2 `ISR_stress_specific` set were therefore not route-specific. The sets below replace it: `T21_ATF4_shared` (61 genes), `T21_ATF4_stress_only` (171 ATF4-dependent tunicamycin-induced genes not induced by insulin; one ISR branch, one cell type) and `T21_mTORC1_nonATF4` (176 rapamycin-sensitive genes that do not depend on ATF4).
+
+### LARRY: low- versus high-output clones (51 vs 30; within-experiment SD units; BH over the 21 sets of this round)
+
+| Set | Low − high output | p | BH |
+|---|---|---|---|
+| ATF4 targets, stress route only | +0.09 | 0.69 | 0.76 |
+| ATF4 targets, shared with mTORC1 | −0.58 | 0.010 | 0.021 |
+| mTORC1 targets not needing ATF4 | −1.06 | <0.001 | <0.001 |
+| Reactome PERK / ATF4-ER-stress / GCN2 / HRI | −0.52 / −0.39 / −0.13 / +0.02 | 0.020 / 0.088 / 0.59 / 0.92 | |
+| Pyrimidine / purine synthesis | −1.00 / −0.77 | <0.001 / 0.001 | |
+| One-carbon / serine synthesis | −0.93 / −0.70 | <0.001 / 0.001 | |
+| Mitochondrial translation / OXPHOS / glycolysis | −0.96 / −0.89 / −0.85 | all <0.001 | |
+| Cytoplasmic translation factors (non-RP) | −0.84 | <0.001 | <0.001 |
+| Pol I transcription / SSU / LSU biogenesis | −0.58 / −0.54 / −0.48 | 0.011 / 0.017 / 0.034 | |
+| Cholesterol / fatty-acid synthesis | −0.04 / −0.28 | 0.86 / 0.22 | |
+
+- The stress-route-only ATF4 targets do not differ; the shared ATF4 targets fall with the ATF4-independent mTORC1 targets (clone-level correlation 0.52; stress-only versus mTORC1 0.01). This is the growth-route pattern fixed in advance.
+- The lower expression in low-output HSCs is not confined to protein synthesis. Nucleotide synthesis, one-carbon metabolism, mitochondrial translation and energy metabolism differ as much as or more than ribosome biogenesis; lipid synthesis does not differ.
+- HSC-rich, low-output clones (21 of 84) are lower on pyrimidine synthesis (−0.77, p = 0.002) and nominally on one-carbon and purine synthesis; no ISR set differs (stress-only −0.02).
+- With stemness adjustment every association with output per HSC is near zero (largest: stress-only +0.21, glycolysis +0.18).
+
+### Milsom: HSCs between clones (cell-level SD units)
+
+| Set | M9.6 − M3.2 | M6.1 − M7.3 | M6.1 − M5.1 | M9.6 − control | M5.1 − control |
+|---|---|---|---|---|---|
+| ATF4 targets, stress route only | +0.27 | +0.09 | −0.66 | +0.04 | +0.64 |
+| ATF4 targets, shared | +0.13 | +0.21 | −0.34 | +0.32 | +0.50 |
+| mTORC1 targets not needing ATF4 | −0.58 | +0.13 | −0.48 | −0.21 | +1.11 |
+| Cytoplasmic translation factors | +0.43 | +0.25 | −0.93 | +0.56 | +1.28 |
+| Purine synthesis | +0.30 | +0.06 | −0.38 | +0.62 | +1.45 |
+| OXPHOS | +0.08 | +0.02 | −0.37 | +0.34 | +1.48 |
+
+- The slowest clone is lower than its run-mate and its control on ATF4-independent mTORC1 targets, with a small rise in stress-only ATF4 targets against the run-mate (+0.27) and none against the control (+0.04). Other biosynthesis sets do not move consistently in that pair.
+- The fastest clone (M5.1, 25 HSCs) is higher than its control and its slower run-mates on almost every set, stress-only ATF4 targets included.
+
+### Reading
+
+Using published sets strengthens the round-2 reading. Low-output and slow-clone HSCs show a broadly quieter growth and metabolic transcript state, of which translation machinery is one part; there is no transcript-level sign that the stress route to ATF4 is more active in them. Limits specific to this round: the route split comes from fibroblasts under one stressor, many stress-only genes are not expressed in HSCs, and eIF2α phosphorylation itself is not measured.
