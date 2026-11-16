@@ -52,3 +52,36 @@ The HSPC object shows a run structure not known when the plan was written: Run 1
 - The deposited object carries no donor-reporter flag, so whether each annotated HSC is clone-derived cannot be checked from the data. The paper describes the sequenced cells as clonally derived bone-marrow progeny.
 
 LARRY convention fixed at the same time, before LARRY scores were inspected: a cell is assigned to a clone only when its barcode string exactly equals the clone key, as in the original notebook (cells carrying several barcodes are excluded because the published clone tables cannot be reproduced from the deposited barcode lists). Clones need at least 5 scored sorted-HSC cells (sensitivity: 3 and 10). Analyses are stratified by experiment.
+
+## Amendment 2 (2026-11-16, exploratory second round, written before any of it was run)
+
+Status: exploratory. The first-round results in `docs/report.md` had been seen when this was written, so nothing below is confirmatory. All comparisons use annotated/sorted HSCs only.
+
+### Change of stance on adjustment
+
+Stemness, dormancy and growth-programme scores may be consequences of ISR-regulated translation and not confounders of it. Headline numbers in this round are therefore **unadjusted**. Stemness-adjusted values are shown beside them and read as a different question ("is there anything beyond what the stemness score already captures"), not as a correction. Gene overlap between the stemness sets and the ISR/translation sets is reported, because shared genes make adjustment partly circular.
+
+### Additional gene sets (`metadata/gene_sets_round2.tsv`, built by `scripts/build_gene_sets_round2.py`)
+
+ATF4 target transcripts can be raised by two routes with opposite meaning for the hypothesis: eIF2α phosphorylation (ISR; global translation down) and mTORC1/MYC growth signalling (translation up). The first-round `ISR_adaptive` set cannot tell them apart, and the hallmark mTORC1 set contains ATF4 targets. No regression of one score on another is used to separate them. Instead three non-overlapping read-outs are scored and reported side by side:
+
+- `ISR_stress_specific`: Ddit3, Trib3, Chac1, Ppp1r15a, Atf5, Sesn2, Ddit4, Nupr1, Atf3, Gadd45a, Stc2. Targets associated with the eIF2α-P route and with ISR feedback on mTORC1 (Sesn2, Ddit4). Selection is from memory of Park 2017 (Cell Rep) and Torrence 2021 (eLife); citations and membership unverified. `ISR_stress_specific_noIEG` drops members of the dissociation immediate-early set.
+- `ATF4_biosynth`: first-round `ISR_adaptive` minus Sesn2, Eif4ebp1, Cebpg, Stc2, Vegfa, Atf4 (amino-acid synthesis and transport, tRNA charging, one-carbon). Route-ambiguous.
+- `Growth_noATF4`: hallmark mTORC1 minus every gene in `ISR_adaptive`, `ISR_terminal` or `ISR_stress_specific`. `RiBi_nonRP` is kept as the second growth read-out.
+
+Readings fixed in advance: restraint by ISR predicts `ISR_stress_specific` higher together with `Growth_noATF4`/`RiBi_nonRP` lower in slower or lower-output HSCs. Growth-route ATF4 predicts `ATF4_biosynth` moving with the growth read-outs and `ISR_stress_specific` flat or following the immediate-early set.
+
+### Milsom: HSCs compared between clones
+
+- Cell-level standardised differences (slower minus faster, pooled cell SD, bootstrap interval over cells) for the within-run clone pairs M9.6–M3.2 (run 2) and M6.1–M7.3, M6.1–M5.1, M7.3–M5.1 (run 1), and for each clone against its same-run control. Cross-run clone pairs are not compared directly. Intervals describe sampling of cells from two particular clones; each clone is still one biological unit.
+- Sets: the three above, `ISR_stress_specific_noIEG`, `RiBi_nonRP`, `RP_cytoplasmic`, first-round `ISR_adaptive`, `ISR_terminal`, `mTORC1_hallmark`, `Stem_MolO`, `Stem_dHSC`, `IEG_dissociation`, and log10 total UMIs per cell.
+- Genome-wide: HSC pseudobulk (raw counts summed, log2 CPM + 1) fold change for two independent slower-versus-faster contrasts, A = M9.6 vs M3.2 and B = M6.1 vs (M7.3 + M5.1 pooled), over genes with at least 10 counts in all four pseudobulks. Spearman correlation of A with B is the read-out of a shared kinetics-associated programme. No p-value (genes are not independent). Mean fold change of each set in A and B is tabulated.
+
+### LARRY
+
+- Low- versus high-output clones (authors' labels, at least 5 scored HSCs, stratified by experiment, same permutation test and seed as round one) for the new sets, unadjusted; rank correlation with output per HSC with and without stemness adjustment shown together.
+- "HSC-rich, low-output" clones: within each experiment, clones above the median HSC frequency and below the median output per HSC, against all other clones. Descriptive; H2 predicts the highest `ISR_stress_specific` in this group.
+- Genome-wide: per-clone mean of log1p normalised expression in HSCs, per-gene within-experiment standardised difference low minus high output; rank position of each set.
+- Cross-dataset: Spearman correlation of that per-gene difference with Milsom contrasts A, B and M9.6 versus its control.
+
+Dropped from the earlier proposal: stemness-matched cell pairing (superseded by the change of stance; the clone-level adjusted value is retained for reference) and trajectory analysis.
